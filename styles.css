@@ -1,0 +1,44 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background: lightblue;
+}
+
+.result {
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    font-family: 'Nunito', sans-serif;
+}
+
+button {
+    font-family: 'Nunito', sans-serif;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.reset {
+    margin-top: 20px;
+}
+
+img {
+    margin-top: 15px;
+    height: 400px;
+    border-radius: 10px;
+}
